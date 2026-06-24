@@ -1,0 +1,8 @@
+// RV32IM Test Firmware (hand-assembled)
+// Each line = 1 instruction word in hex
+02000113
+00300193
+023201b3
+000002b7
+0042a023
+0000006f

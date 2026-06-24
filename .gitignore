@@ -1,0 +1,53 @@
+# Synthesis
+*.dc#
+*.syn*
+*.vg
+*.gv
+*.o
+*.bak
+
+# Simulation
+simv
+simv.*
+csrc/
+vc_hdrs.h
+ucli.key
+*.log
+*.fsdb
+*.vcd
+*.vpd
+*.vdb
+*.wlf
+transcript
+work/
+*.ucdb
+
+# Coverage
+cov_*/
+cov_report/
+cov_merge/
+DVEfiles/
+urgReport/
+
+# Waveform
+novas.*
+verdiLog/
+*.rc
+*.conf
+
+# Python
+__pycache__/
+*.pyc
+.eggs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+*.swp
+*.swo
+.vscode/
+
+# Docs (personal)
+docs/
